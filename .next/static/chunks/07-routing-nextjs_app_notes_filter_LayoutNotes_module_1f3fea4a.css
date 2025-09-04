@@ -1,0 +1,27 @@
+/* [project]/07-routing-nextjs/app/notes/filter/LayoutNotes.module.css [app-client] (css) */
+.LayoutNotes-module__IsFyjW__container {
+  flex-direction: row;
+  flex: 1;
+  height: 100vh;
+  min-height: 0;
+  display: flex;
+}
+
+.LayoutNotes-module__IsFyjW__sidebar {
+  color: #fff;
+  background-color: #2c2c2c;
+  border-right: 1px solid #ddd;
+  flex-direction: column;
+  align-self: stretch;
+  width: 250px;
+  height: auto;
+  padding: 16px;
+  display: flex;
+}
+
+.LayoutNotes-module__IsFyjW__notesWrapper {
+  flex: 1;
+  width: 100%;
+}
+
+/*# sourceMappingURL=07-routing-nextjs_app_notes_filter_LayoutNotes_module_1f3fea4a.css.map*/

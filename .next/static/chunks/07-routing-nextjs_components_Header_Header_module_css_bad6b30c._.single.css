@@ -1,0 +1,45 @@
+/* [project]/07-routing-nextjs/components/Header/Header.module.css [app-client] (css) */
+.Header-module__8RgWWq__header {
+  color: #fff;
+  background-color: #333;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  display: flex;
+}
+
+.Header-module__8RgWWq__headerLink {
+  color: #fff;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.Header-module__8RgWWq__headerLink:hover {
+  color: #ddd;
+}
+
+.Header-module__8RgWWq__navigation {
+  gap: 1rem;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+}
+
+.Header-module__8RgWWq__navigationItem {
+  align-items: center;
+  display: flex;
+}
+
+.Header-module__8RgWWq__navigationLink {
+  color: #fff;
+  font-size: 1rem;
+  text-decoration: none;
+}
+
+.Header-module__8RgWWq__navigationLink:hover {
+  color: #ddd;
+}
+
+/*# sourceMappingURL=07-routing-nextjs_components_Header_Header_module_css_bad6b30c._.single.css.map*/

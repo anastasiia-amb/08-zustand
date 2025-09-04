@@ -1,0 +1,32 @@
+{
+  "pages": {
+    "/notes/filter/[...slug]/page": [
+      "static/chunks/[root-of-the-server]__a077f53e._.css",
+      "static/chunks/71498_4dea4e87._.js",
+      "static/chunks/07-routing-nextjs_components_c0bea2b1._.js",
+      "static/chunks/07-routing-nextjs_app_layout_tsx_9fda8306._.js",
+      "static/chunks/07-routing-nextjs_app_Home_module_15b07c2d.css",
+      "static/chunks/07-routing-nextjs_app_not-found_tsx_3980e71a._.js",
+      "static/chunks/71498_next_dist_client_components_builtin_global-error_3980e71a.js",
+      "static/chunks/07-routing-nextjs_app_notes_filter_LayoutNotes_module_1f3fea4a.css",
+      "static/chunks/07-routing-nextjs_app_notes_filter_layout_tsx_3980e71a._.js",
+      "static/chunks/07-routing-nextjs_app_notes_filter_[___slug]_error_tsx_d4738b25._.js",
+      "static/chunks/07-routing-nextjs_app_notes_filter_[___slug]_error_tsx_eb58059d._.js",
+      "static/chunks/71498_ac85bdac._.js",
+      "static/chunks/07-routing-nextjs_a5200c56._.js",
+      "static/chunks/07-routing-nextjs_11fbb2d1._.css",
+      "static/chunks/07-routing-nextjs_app_notes_filter_[___slug]_page_tsx_eb58059d._.js",
+      "static/chunks/07-routing-nextjs_app_notes_filter_@sidebar_SidebarNotes_module_a9d8c370.css",
+      "static/chunks/07-routing-nextjs_app_notes_filter_@sidebar_default_tsx_eb58059d._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_dcdf3725._.js",
+      "static/chunks/71498_next_dist_compiled_react-dom_58b90680._.js",
+      "static/chunks/71498_next_dist_compiled_next-devtools_index_9fb6e2ec.js",
+      "static/chunks/71498_next_dist_compiled_d59e0b10._.js",
+      "static/chunks/71498_next_dist_client_95ab2d65._.js",
+      "static/chunks/71498_next_dist_64f12112._.js",
+      "static/chunks/71498_@swc_helpers_cjs_e29de500._.js",
+      "static/chunks/07-routing-nextjs_a0ff3932._.js",
+      "static/chunks/turbopack-07-routing-nextjs_4dc86705._.js"
+    ]
+  }
+}

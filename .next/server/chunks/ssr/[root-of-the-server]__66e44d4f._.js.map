@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 23, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/msigf/Desktop/Projects/07-routing-nextjs/app/%40modal/default.tsx"],"sourcesContent":["const Default = () => null;\r\n\r\nexport default Default;\r\n"],"names":[],"mappings":";;;;AAAA,MAAM,UAAU,IAAM;uCAEP","debugId":null}}]
+}
