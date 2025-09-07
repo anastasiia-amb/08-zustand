@@ -23,6 +23,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       description: `All your notes in one app`,
       url: `https://08-zustand-theta-blue.vercel.app/notes/filter/${filterNote}`,
       siteName: "NoteHub",
+      images: [
+        {
+          url: "https://ac.goit.global/fullstack/react/notehub-og-meta.jpg",
+          width: 1200,
+          height: 630,
+        },
+      ],
     },
   };
 }

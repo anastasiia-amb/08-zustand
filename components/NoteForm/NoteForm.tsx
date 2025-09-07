@@ -80,6 +80,7 @@ export default function NoteForm() {
           className={css.input}
           value={draft?.title}
           onChange={handleChange}
+          required
         />
       </div>
 
