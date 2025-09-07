@@ -5,14 +5,31 @@ import {
 } from "@tanstack/react-query";
 import { fetchNotes } from "@/lib/api";
 import NotesClient from "./Notes.client";
+import { Metadata } from "next";
+import css from "./NotesPage.module.css";
 
 type Props = {
-  params: Promise<{ slug: string[] }>;
+  params: { slug: string[] };
 };
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const { slug } = params;
+  const filterNote = slug[0];
+  return {
+    title: `Notes with ${filterNote} filter`,
+    description: `All your notes in one app`,
+    openGraph: {
+      title: `Notes with ${filterNote} filter`,
+      description: `All your notes in one app`,
+      url: `https://08-zustand-theta-blue.vercel.app/notes/filter/${filterNote}`,
+      siteName: "NoteHub",
+    },
+  };
+}
 
 export default async function Notes({ params }: Props) {
   const queryClient = new QueryClient();
-  const { slug } = await params;
+  const { slug } = params;
   const tag = slug[0] === "All" ? undefined : slug[0];
 
   await queryClient.prefetchQuery({
@@ -21,8 +38,10 @@ export default async function Notes({ params }: Props) {
   });
 
   return (
-    <HydrationBoundary state={dehydrate(queryClient)}>
-      <NotesClient tag={tag} />
-    </HydrationBoundary>
+    <div className={css.app}>
+      <HydrationBoundary state={dehydrate(queryClient)}>
+        <NotesClient tag={tag} />
+      </HydrationBoundary>
+    </div>
   );
 }

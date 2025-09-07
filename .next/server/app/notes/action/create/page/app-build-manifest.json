@@ -1,0 +1,26 @@
+{
+  "pages": {
+    "/notes/action/create/page": [
+      "static/chunks/f67b9_3ab3fb31._.js",
+      "static/chunks/08-zustand_components_c5ec25b0._.js",
+      "static/chunks/[root-of-the-server]__f5ae0114._.css",
+      "static/chunks/08-zustand_app_layout_tsx_3014ca1e._.js",
+      "static/chunks/08-zustand_app_Home_module_20906c0b.css",
+      "static/chunks/08-zustand_app_not-found_tsx_e69f2297._.js",
+      "static/chunks/f67b9_next_dist_client_components_builtin_global-error_e69f2297.js",
+      "static/chunks/08-zustand_6984c890._.css",
+      "static/chunks/f67b9_ea80c401._.js",
+      "static/chunks/08-zustand_bfcf544a._.js",
+      "static/chunks/08-zustand_app_notes_action_create_page_tsx_e69f2297._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_f7fb9c39._.js",
+      "static/chunks/f67b9_next_dist_compiled_react-dom_dae3e79f._.js",
+      "static/chunks/f67b9_next_dist_compiled_next-devtools_index_504f302e.js",
+      "static/chunks/f67b9_next_dist_compiled_cd4d3110._.js",
+      "static/chunks/f67b9_next_dist_client_d4808df1._.js",
+      "static/chunks/f67b9_next_dist_60dd5c22._.js",
+      "static/chunks/f67b9_@swc_helpers_cjs_dc8e4dc9._.js",
+      "static/chunks/08-zustand_a0ff3932._.js",
+      "static/chunks/turbopack-08-zustand_1170d35f._.js"
+    ]
+  }
+}

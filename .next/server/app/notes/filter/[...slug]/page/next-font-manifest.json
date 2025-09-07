@@ -1,9 +1,8 @@
 {
   "pages": {},
   "app": {
-    "[project]/07-routing-nextjs/app/notes/filter/[...slug]/page": [
-      "static/media/caa3a2e1cccd8315-s.p.6435ea53.woff2",
-      "static/media/797e433ab948586e-s.p.dbea232f.woff2"
+    "[project]/08-zustand/app/notes/filter/[...slug]/page": [
+      "static/media/ce62453a442c7f35-s.p.a9507876.woff2"
     ]
   },
   "appUsingSizeAdjust": true,

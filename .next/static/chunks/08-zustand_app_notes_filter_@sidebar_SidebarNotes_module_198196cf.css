@@ -1,0 +1,26 @@
+/* [project]/08-zustand/app/notes/filter/@sidebar/SidebarNotes.module.css [app-client] (css) */
+.SidebarNotes-module__x23kuG__menuList {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.SidebarNotes-module__x23kuG__menuItem {
+  margin-bottom: 16px;
+}
+
+.SidebarNotes-module__x23kuG__menuLink {
+  color: #fff;
+  padding: 8px 16px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+  display: block;
+}
+
+.SidebarNotes-module__x23kuG__menuLink:hover {
+  color: #ddd;
+  background-color: #444;
+}
+
+/*# sourceMappingURL=08-zustand_app_notes_filter_%40sidebar_SidebarNotes_module_198196cf.css.map*/

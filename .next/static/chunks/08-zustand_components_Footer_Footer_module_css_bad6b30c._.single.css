@@ -1,0 +1,27 @@
+/* [project]/08-zustand/components/Footer/Footer.module.css [app-client] (css) */
+.Footer-module__5ELVkG__footer {
+  text-align: center;
+  color: #555;
+  background-color: #f0f0f0;
+  border-top: 1px solid #ddd;
+  padding: 20px;
+  font-size: 14px;
+}
+
+.Footer-module__5ELVkG__wrap {
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+}
+
+.Footer-module__5ELVkG__footer a {
+  color: #0d6efd;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.Footer-module__5ELVkG__footer a:hover {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=08-zustand_components_Footer_Footer_module_css_bad6b30c._.single.css.map*/
